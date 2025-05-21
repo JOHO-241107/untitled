@@ -2,7 +2,7 @@ package Reviewproblem;
 
 public class Review15 {
     public static void main(String[] args) {
-        int num = 0;
+        int num = 1;
         if (num % 2 == 0){
             System.out.println("偶数");
         }else if (num % 2 == 1){
