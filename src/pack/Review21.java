@@ -1,4 +1,4 @@
-package Reviewproblem;
+package pack;
 
 public class Review21 {
     public static void main(String[] args) {
